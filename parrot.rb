@@ -5,4 +5,4 @@ def parrot(name = "Squawk!")
   puts name
 end
 
-phrase = parrot()
+phrase = parrot(name = "Squawk!")
